@@ -1,4 +1,4 @@
-# AgroStock
+# KopDes Maps
 Otomasi Inventaris & Transparansi Stok Koperasi Desa Berbasis Computer Vision
 
 💡 Latar Belakang (Problem)
