@@ -9,7 +9,7 @@ Saat ini, data persebaran koperasi di website https://simkopdes.go.id/ sering ka
 KopDes-Maps hadir untuk melakukan "bersih-bersih data" dan pemetaan:
 - Verifikasi langsung ke lokasi koperasi atau gerai koperasi untuk memastikan koordinat lokasi koperasi sesuai.
 - Mengkurasi informasi detail seperti produk unggulan, jam operasional, dan kontak pengurus.
-- Melaporkan kepihak yang sesuai untuk memperbaharui dashboard visualisasi persebaran koperasi yang aktif dan terverifikasi.
+- Melaporkan kepihak yang sesuai untuk memperbaharui dashboard visualisasi persebaran koperasi pada website https://simkopdes.go.id/.
 - Memastikan setiap koperasi desa memiliki "alamat digital" yang valid di Google Maps dan di website simkopdes.go.id.
 
 # Tech Stack
